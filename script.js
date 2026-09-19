@@ -28,7 +28,7 @@ const perguntas = [
         texto: "DESAFIO - Drummond começou a publicar seus textos ainda jovem e, ao longo de sua carreira, escreveu poemas, crônicas e contos. Suas obras abordam temas como o amor, a solidão, a vida cotidiana, a política, as relações humanas, a passagem do tempo e os conflitos do indivíduo com a sociedade. Sua poesia possui uma linguagem simples e, muitas vezes, utiliza ironia, humor e reflexão para tratar de situações do dia a dia. Um de seus poemas mais famosos é “No Meio do Caminho”, que ficou conhecido pelo verso repetitivo sobre uma pedra no caminho. Você acha que Carlos Drummond de Andrade continua sendo um dos maiores nomes da literatura brasileira?",
         opcoes: ["Verdadeiro", "Falso", "Não Sei"],
         respostaCorreta: 0
-    },
+    }
 ]
 
 const quiz = document.getElementById("quiz");
