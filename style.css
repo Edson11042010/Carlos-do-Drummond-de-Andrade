@@ -81,7 +81,7 @@ h2 {
 }
 
 /* Texto do quiz */
-.quiz-texto {
+#quiz-texto {
     font-size: 18px;
     padding: 0 0 20px;
     margin: 0;
