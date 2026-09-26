@@ -60,7 +60,7 @@ h2 {
 }
 
 /* Caixa do quiz */
-#quiz-box {
+.quiz-box {
     width: min(85%, 800px);
     margin: 30px auto;
     padding: 25px;
@@ -81,7 +81,7 @@ h2 {
 }
 
 /* Texto do quiz */
-#quiz-texto {
+.quiz-texto {
     font-size: 18px;
     padding: 0 0 20px;
     margin: 0;
